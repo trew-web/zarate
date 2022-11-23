@@ -1,4 +1,4 @@
 
-const modelName = "zara"
+const modelName = "dalex"
 
-const link = "https://vo.la/RDCiD3"
+const link = "https://t.ly/fqWZ"
